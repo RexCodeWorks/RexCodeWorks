@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @RexCodeWorks
+# 👋 Hi there, I'm Rex
 
 👨‍💻 I'm a software engineer specializing in full-stack web development.
 
